@@ -1,0 +1,16 @@
+{
+    "message": "Selamat belajar PHP Logging",
+    "context": { "username": "Terry" },
+    "level": 200,
+    "level_name": "INFO",
+    "channel": "AriefKarditya\\LocalDomainPhp\\LoggingTest",
+    "datetime": "2024-08-05T14:20:20.403032+07:00",
+    "extra": {
+        "hostname": "E5-476G-58MG",
+        "memory_usage": "4 MB",
+        "git": {
+            "branch": "master",
+            "commit": "01734fff30e116c964c3e3a12c687c0efedb7a78"
+        }
+    }
+}
